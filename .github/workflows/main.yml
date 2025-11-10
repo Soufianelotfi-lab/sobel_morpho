@@ -1,7 +1,7 @@
 name: CI
 on:
     push:
-          branches: [My_Modif]
+          branches: [main]
 jobs:
       build:
         runs-on: ubuntu-latest
